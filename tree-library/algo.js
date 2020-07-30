@@ -87,7 +87,7 @@ export const getNodeFromKey = (root, key) => {
     if (!root || !("key" in root)) {
         return null;
     }
-    // We search using Level-Order(BFS). Complexity worst Case - O(Height of tree)
+    // We search using Level-Order(BFS). Complexity worst Case - O(N)
     let q = [root];
 
     while (q.length) {
