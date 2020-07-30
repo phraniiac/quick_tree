@@ -20,17 +20,17 @@ Some use cases which are addressed -
 
 ## Table of Contents
 
-1. Installation
-1. Usage
-1. Contribute
+1. [Installation](#installation)
+1. [Usage](#usage)
+1. [Contribute](#contribute)
 
-### Installation
+### [Installation](#installation)
 
 ```cli
 npm i --save quick_tree
 ```
 
-### Usage
+### [Usage](#usage)
 
 The library offers 2 exports written under -
 
