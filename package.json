@@ -1,6 +1,6 @@
 {
   "name": "quick_tree",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Fast Tree utilities M-Nary Tree.",
   "main": "index.js",
   "scripts": {
