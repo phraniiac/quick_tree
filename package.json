@@ -1,0 +1,22 @@
+{
+  "name": "quick_tree",
+  "version": "0.0.2",
+  "description": "Fast Tree utilities M-Nary Tree.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "direwolf7",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phraniiac/quick_tree.git"
+  },
+  "bugs": {
+    "url": "https://github.com/phraniiac/quick_tree/issues"
+  },
+  "homepage": "https://github.com/phraniiac/quick_tree#readme",
+  "dependencies": {
+    "lodash": "^4.17.19"
+  }
+}
